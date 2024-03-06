@@ -4,6 +4,11 @@
 
 Este projeto utiliza a biblioteca `crewai` para criar agentes de inteligência artificial especializados em pesquisar eventos culturais e planejar itinerários. Ele integra a API do OpenAI, especificamente o modelo `gpt-4-1106-preview`, para processar as solicitações dos usuários e gerar respostas úteis.
 
+Fluxo do Algoritmo:
+
+![image](https://github.com/brdoliveira/agent-ia-test/assets/66849496/3a7c7703-4e14-4651-9f4d-d24d0d78cf61)
+
+
 ## Configuração
 
 ### Pré-requisitos
